@@ -3,7 +3,7 @@ package handlebars
 import (
 	"testing"
 
-	"github.com/aymerick/raymond"
+	"github.com/jumba-nl/raymond"
 )
 
 //

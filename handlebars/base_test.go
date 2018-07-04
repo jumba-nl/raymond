@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/aymerick/raymond"
+	"github.com/jumba-nl/raymond"
 )
 
-// cf. https://github.com/aymerick/go-fuzz-tests/raymond
+// cf. https://github.com/jumba-nl/go-fuzz-tests/raymond
 const dumpTpl = false
 
 var dumpTplNb = 0
